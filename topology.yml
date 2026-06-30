@@ -35,7 +35,7 @@ networks:
     cidr: 10.10.30.0/24
     accessible_by_user: true
 
-    - name: dummy-switch
+  - name: dummy-switch
     cidr: 10.10.40.0/24
     accessible_by_user: true
 
